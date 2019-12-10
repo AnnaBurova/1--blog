@@ -9,8 +9,10 @@
 
 ## Twitter
 
-- [Twitter](https://twitter.com/SelenaKuinn)
+- [x] [Anna Burova](https://twitter.com/AnnaBurova89)
+- [x] [Selina Kuinn](https://twitter.com/SelenaKuinn)
 
 ## Facebook
 
-- [Facebook](https://www.facebook.com/selina.kuinn)
+- [x] [Anna Burova](https://www.facebook.com/AnnaBurova89)
+- [x] [Selina Kuinn](https://www.facebook.com/selina.kuinn)
