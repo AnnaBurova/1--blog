@@ -5,6 +5,7 @@
 - [x] [Anna Burova](https://vk.com/id544891722)
 - [x] [Selina Kuinn](https://vk.com/id134617180)
 
+- [ ] [Наталия Сенягина](https://vk.com/id33862652)
 - [ ] [Светлана Морошкина](https://vk.com/id4454398)
 
 ## Twitter
