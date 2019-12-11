@@ -5,14 +5,6 @@
 - [x] [Anna Burova](https://vk.com/id544891722)
 - [x] [Selina Kuinn](https://vk.com/id134617180)
 
-- [ ] [Александр Сенягин](https://vk.com/id33864192)
-- [ ] [Анна Мазурова](https://vk.com/id1641666)
-- [ ] [Илья Казямов](https://vk.com/id389846982)
-- [ ] [Кошан Пухальский](https://vk.com/id23250714) - Георгий Пухальский
-- [ ] [Марина Лiтвак](https://vk.com/id3818332)
-- [ ] [Наталия Сенягина](https://vk.com/id33862652)
-- [ ] [Светлана Морошкина](https://vk.com/id4454398)
-
 ## Twitter
 
 - [x] [Anna Burova](https://twitter.com/AnnaBurova89)
